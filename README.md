@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-👨‍💻 Passionate Software Developer | Lifelong Learner 🚀 | Specializing in Full-Stack Development, AWS Cloud, Neural Network & Deep learning, REST API, Software Testing, NLP, Mobile App Development and Machine Learning | Open to Collaborations 🤝 | Exploring the intersection of technology and innovation 🌐 | Check out my repositories for a glimpse into my coding journey and projects. Let's code the future together! 💻"
+👨‍💻 Passionate Software Developer | Lifelong Learner 🚀 | Specializing in Full-Stack Development, AWS Cloud, Neural Network & Deep learning, REST API, Software Testing, NLP, Mobile App Development, Data Analysis and Innovative Research | Open to Collaborations 🤝 | Exploring the intersection of technology and innovation 🌐 | Check out my repositories for a glimpse into my coding journey and projects. Let's code the future together! 💻"
 
 * 🌍  I'm based in New South Wales
 * 🖥️  See my portfolio at [My Website](http://ominfood.netlify)
