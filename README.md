@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-👨‍💻 Passionate Software Developer | Lifelong Learner 🚀 | Specializing in Full-Stack Development, Mobile App Development and Machine Learning | Open to Collaborations 🤝 | Exploring the intersection of technology and innovation 🌐 | Check out my repositories for a glimpse into my coding journey and projects. Let's code the future together! 💻"
+👨‍💻 Passionate Software Developer | Lifelong Learner 🚀 | Specializing in Full-Stack Development, AWS Cloud, Neural Network & Deep learning, REST API, Software Testing, NLP, Mobile App Development and Machine Learning | Open to Collaborations 🤝 | Exploring the intersection of technology and innovation 🌐 | Check out my repositories for a glimpse into my coding journey and projects. Let's code the future together! 💻"
 
 * 🌍  I'm based in New South Wales
 * 🖥️  See my portfolio at [My Website](http://ominfood.netlify)
@@ -40,6 +40,7 @@ src="https://img.shields.io/github/followers/subashrai02468?logo=github&style=fo
 
 <a href="https://github.com/subashrai02468" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashrai02468&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
+### Happy Creating !!😀 
