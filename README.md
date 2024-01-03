@@ -7,7 +7,7 @@ Software Developer
 👨‍💻 Passionate Software Developer | Lifelong Learner 🚀 | Specializing in Full-Stack Development, AWS Cloud, Neural Network & Deep learning, REST API, Software Testing, NLP, Mobile App Development, Data Analysis and Innovative Research | Open to Collaborations 🤝 | Exploring the intersection of technology and innovation 🌐 | Check out my repositories for a glimpse into my coding journey and projects. Let's code the future together! 💻"
 
 * 🌍  I'm based in New South Wales
-* 🖥️  See my portfolio at [My Website](http://ominfood.netlify)
+* 🖥️  See my portfolio at [My Website](http://subash-portfolio-website.netlify.app/)
 * ✉️  You can contact me at [subashrai02468@gmail.com](mailto:subashrai02468@gmail.com)
 * 🧠  I'm learning YOLO, Selenium Automation Testing
 * 🤝  I'm open to collaborating on Diabetes Neural Network Prediction Model
